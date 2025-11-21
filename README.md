@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Articles](https://img.shields.io/badge/articles-200%2B-brightgreen)](https://incomparable-pithivier-af2053.netlify.app/)
 
-> A comprehensive digital library featuring 200+ research articles on diverse topics, curated and created by an independent researcher.
+> A comprehensive digital library featuring 200+ research articles on diverse topics, curated and created by independent researcher Kallol Chakrabarti.
 
 ## 🌟 Overview
 
@@ -23,12 +23,17 @@ This digital library represents a unique collection of original research article
 
 ## 🎯 Topics Covered
 
-<!-- Add your specific topics here, for example: -->
-- Philosophy & Epistemology
-- Science & Technology
-- Social Sciences
-- Innovation & Creativity
-- [Add your specific categories]
+This comprehensive collection spans multiple disciplines:
+
+- ⚖️ **Governance & Policy** - Political systems, policy analysis, and institutional frameworks
+- 💾 **Technology & Innovation** - Emerging technologies, digital transformation, and innovation strategies
+- 🧠 **Philosophy & Ethics** - Philosophical inquiry, moral reasoning, and ethical frameworks
+- 🌟 **Spirituality & Consciousness** - Consciousness studies, spiritual practices, and inner development
+- 📚 **History & Culture** - Historical analysis, cultural studies, and societal evolution
+- 🧬 **Science & Nature** - Scientific discoveries, natural phenomena, and environmental studies
+- 🎨 **Arts & Literature** - Artistic expression, literary analysis, and creative works
+- 📈 **Business & Economics** - Economic theory, business strategy, and market dynamics
+- 🎓 **Education & Learning** - Pedagogical approaches, learning theory, and educational innovation
 
 ## 🛠️ Technology Stack
 
@@ -89,7 +94,6 @@ npm run dev
 - Deploy to Netlify, Vercel, or your preferred platform
 
 ## 📁 Project Structure
-
 ```
 original-concepts-digital-library/
 ├── App.tsx              # Main application component
@@ -128,30 +132,51 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-**Project Creator:** [Your Name/Handle]
+**Project Creator:** Kallol Chakrabarti  
+*Independent Researcher & Helix Originator*
 
-- GitHub: [@HelixOriginator](https://github.com/HelixOriginator)
-- Project Link: [https://github.com/HelixOriginator/original-concepts-digital-library](https://github.com/HelixOriginator/original-concepts-digital-library)
-- Live Demo: [https://incomparable-pithivier-af2053.netlify.app/](https://incomparable-pithivier-af2053.netlify.app/)
+- **Location:** Lucknow, India
+- **GitHub:** [@HelixOriginator](https://github.com/HelixOriginator)
+- **ORCID:** [0009-0007-4971-8936](https://orcid.org/0009-0007-4971-8936)
+- **SSRN Profile:** [Author Page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm)
+- **Zenodo Profile:** [Research Archive](https://zenodo.org/)
+- **Project Link:** [https://github.com/HelixOriginator/original-concepts-digital-library](https://github.com/HelixOriginator/original-concepts-digital-library)
+- **Live Demo:** [https://incomparable-pithivier-af2053.netlify.app/](https://incomparable-pithivier-af2053.netlify.app/)
 
 ## 🔬 About This Collection
 
-This digital library represents [X years] of independent research and writing, covering [brief description of your focus]. As an independent researcher, this collection aims to [your mission/goal].
+This digital library represents **5 years of independent research and writing**, spanning governance frameworks, philosophy, technology, and consciousness studies. As an independent researcher and Helix Originator, this collection aims to bridge ancient wisdom with modern innovation, exploring fundamental concepts across disciplines.
+
+With over **3,850 downloads across SSRN, Zenodo, and other platforms**, this work represents one of the most comprehensive documented collections by an unaffiliated researcher globally.
+
+### Key Innovations Featured
+- **Vedic Analytical Framework (VAFGPE)**
+- **Digital Promise Tracking (DPTAS)**
+- **Helix Doctrine**
+- **Sanatana Samyata**
+
+### Recognition
+- Election Commission of India recognition for Safeguarding Democratic Truth
+- Assam Chief Minister's Office recognition for Transformational Governance (Ref. No. 3726013)
+- Invited peer reviewer for Academia AI and Applications (San Francisco, October 7, 2025)
+- Harvard University (edX) certification in Rhetoric
+- Indian Patent No. 202411090481
+- Ranked top 2% of researchers by download metrics
 
 ### Citation
 
 If you reference this work, please cite as:
-
 ```
-[Your Name]. (2025). Original Concepts Digital Library. 
+Chakrabarti, K. (2025). Original Concepts Digital Library. 
 GitHub repository: https://github.com/HelixOriginator/original-concepts-digital-library
+ORCID: 0009-0007-4971-8936
 ```
 
 ## 📊 Archive & Preservation
 
 For long-term preservation and citation:
-- **Zenodo Archive:** [Coming soon - will provide DOI]
-- **Archive.org:** [Coming soon]
+- **Zenodo Archive:** [Coming soon - will provide DOI after first release]
+- **GitHub Repository:** Permanent version control and collaboration
 
 ---
 
